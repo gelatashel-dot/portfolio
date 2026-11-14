@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-5. Open http://http://localhost:3001 in your browser.
+5. Open http://localhost:3001 in your browser.
 
 To create a production build:
 
