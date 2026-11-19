@@ -97,10 +97,10 @@ export default async function Home() {
 
               {/* GELETA PROFILE IMAGE — path is editable from /admin/home */}
               <Image
-                src={hero.profileImage}
+                src="/images/geleta.JPG"
                 alt={`${hero.name} profile`}
-                width={200}
-                height={200}
+                width={250}
+                height={250}
                 className="mt-9 h-24 w-24 rounded-3xl border border-mint/30 object-cover shadow-lg"
               />
 
