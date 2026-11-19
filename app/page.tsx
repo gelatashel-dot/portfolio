@@ -101,6 +101,7 @@ export default async function Home() {
                 alt={`${hero.name} profile`}
                 width={250}
                 height={250}
+                unoptimized
                 className="mt-9 h-24 w-24 rounded-3xl border border-mint/30 object-cover shadow-lg"
               />
 
